@@ -34,13 +34,13 @@ The classes used in the project are as follows:
 ## User Input 
 
 The application responds to some user input as listed here: 
-  • The ‘+’ and ‘–‘-buttons zoom in and out, respectively. 
-  • The ‘n’ button follows the next object in space(default is the sun) 
-  • The ‘q’ button exits the application 
-  • The delete button deletes the last object added into space. 
-  • A left mouse click creates a planet at the pointers position with a speed relative to the press 
-    and release position difference. More objects can be created within the main function. Follow the guidelines given there,     first create an object and then add it to the space to be displayed in. Multiple stars can be created (to a 
-    maximum of 8) which all will emit light. 
+* The ‘+’ and ‘–‘-buttons zoom in and out, respectively. 
+* The ‘n’ button follows the next object in space(default is the sun) 
+* The ‘q’ button exits the application 
+* The delete button deletes the last object added into space. 
+* A left mouse click creates a planet at the pointers position with a speed relative to the press and release position difference. 
+ 
+More objects can be created within the main function. Follow the guidelines given there, first create an object and then add it to the space to be displayed in. Multiple stars can be created (to a maximum of 8) which all will emit light.
 
 ## Dependencies 
 
