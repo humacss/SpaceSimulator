@@ -46,3 +46,26 @@ More objects can be created within the main function. Follow the guidelines give
 
 The program is displaying graphics using GLUT and therefore the GLUT files are needed. These can be 
 found in the ‘dependencies’ folder. 
+
+## Compiling
+The code was written entirely in the Code::Blocks IDE. To compile the
+code glut.h, libglut32.a and glut32.dll has to be added to the IDE and
+system folders if these aren't included already. These files can be found
+in the 'dependencies' folder, together with some simple instructions.
+
+The code has only been tested to compile on the Windows Vista
+Operating System. It will most likely also run on all other Windows
+Operating systems released after Windows 95. On the earlier versions
+support for OpenGL has to be installed manually.
+
+## Notes
+At the time of the creation of this program I had no experience
+with GLUT before and very little experience with OpenGL. Therefore the
+code concerning GLUT and OpenGL will probably not be optimal. It was
+simply a means to an end of presenting my results in a more concrete way.
+
+All the lines within the code have been kept at 78 characters long
+for the sake of proper printing line length.
+
+The coding standard used in this project is inspired by:
+http://www.possibility.com/Cpp/CppCodingStandard.html
