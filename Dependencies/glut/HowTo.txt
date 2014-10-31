@@ -1,0 +1,3 @@
+Copy the glut.h to your IDE's include/GL folder
+Copy the libglut32.a to your IDE's lib folder
+copy the glut32.dll to your Windows/System32 folder

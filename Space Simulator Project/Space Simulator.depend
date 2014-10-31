@@ -1,0 +1,575 @@
+# depslib dependency file v1.0
+1304354825 source:c:\users\tddiboy\downloads\openglut\space simulator\asteroid.cpp
+
+1304608455 source:c:\users\tddiboy\downloads\openglut\space simulator\coordinate.cpp
+	"Coordinate.h"
+	<math.h>
+
+1304607099 c:\users\tddiboy\downloads\openglut\space simulator\coordinate.h
+
+1250308678 c:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1250308674 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1304591952 source:c:\users\tddiboy\downloads\openglut\space simulator\moon.cpp
+	"Moon.h"
+	<math.h>
+	<iostream>
+
+1304508364 c:\users\tddiboy\downloads\openglut\space simulator\moon.h
+	"Planet.h"
+	"SpaceObject.h"
+
+1304441878 c:\users\tddiboy\downloads\openglut\space simulator\planet.h
+	"SpaceObject.h"
+
+1304607099 c:\users\tddiboy\downloads\openglut\space simulator\spaceobject.h
+	"Coordinate.h"
+	<string>
+
+1304607099 source:c:\users\tddiboy\downloads\openglut\space simulator\planet.cpp
+	"Planet.h"
+
+1304530604 source:c:\users\tddiboy\downloads\openglut\space simulator\space.cpp
+	"Space.h"
+	<iostream>
+
+1304517714 c:\users\tddiboy\downloads\openglut\space simulator\space.h
+	"SpaceObject.h"
+	"Sun.h"
+	<list>
+
+1304422587 c:\users\tddiboy\downloads\openglut\space simulator\sun.h
+	"SpaceObject.h"
+
+1304422587 source:c:\users\tddiboy\downloads\openglut\space simulator\spaceobject.cpp
+	"SpaceObject.h"
+
+1304608976 source:c:\users\tddiboy\downloads\openglut\space simulator\sun.cpp
+	"Sun.h"
+
+1304419889 source:c:\users\tddiboy\downloads\openglut\space simulator\window.cpp
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+
+1304610391 c:\users\tddiboy\downloads\openglut\space simulator\window.h
+	<string>
+
+983698386 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\winuser.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winerror.h
+
+1250308680 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1228534324 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1228534324 c:\program files\codeblocks\mingw\include\poppack.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winver.h
+
+1228534314 c:\program files\codeblocks\mingw\include\dde.h
+
+1228534314 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1228534314 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\prsht.h
+
+1228534332 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\wincon.h
+
+1228534330 c:\program files\codeblocks\mingw\include\winbase.h
+
+1228534332 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnls.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winreg.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1228534312 c:\program files\codeblocks\mingw\include\cderr.h
+
+1228534314 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1228534316 c:\program files\codeblocks\mingw\include\imm.h
+
+1228534320 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1228534322 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1228534322 c:\program files\codeblocks\mingw\include\nb30.h
+
+1228534326 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1228534326 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1250308676 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winperf.h
+
+1228534314 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1228534330 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winspool.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1228534322 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1228534324 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\cguid.h
+
+1228534324 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1228534324 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1228534322 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1228534334 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1304608907 source:c:\users\tddiboy\downloads\openglut\space simulator\main.cpp
+	"Draw.h"
+	"Space.h"
+	"Sun.h"
+	"Planet.h"
+	"Moon.h"
+	<iostream>
+
+1304612317 c:\users\tddiboy\downloads\openglut\space simulator\draw.h
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+	"Space.h"
+	"Planet.h"
+
+1304610959 source:c:\users\tddiboy\downloads\openglut\space simulator\draw.cpp
+	"Draw.h"
+	<iostream>
+
+1304354825 source:c:\users\tddiboy\downloads\take two\space simulator\asteroid.cpp
+
+1304608455 source:c:\users\tddiboy\downloads\take two\space simulator\coordinate.cpp
+	"Coordinate.h"
+	<math.h>
+
+1304666391 c:\users\tddiboy\downloads\take two\space simulator\coordinate.h
+
+1304591952 source:c:\users\tddiboy\downloads\take two\space simulator\moon.cpp
+	"Moon.h"
+	<math.h>
+	<iostream>
+
+1304508364 c:\users\tddiboy\downloads\take two\space simulator\moon.h
+	"Planet.h"
+	"SpaceObject.h"
+
+1304441878 c:\users\tddiboy\downloads\take two\space simulator\planet.h
+	"SpaceObject.h"
+
+1304666391 c:\users\tddiboy\downloads\take two\space simulator\spaceobject.h
+	"Coordinate.h"
+	<string>
+
+1304607099 source:c:\users\tddiboy\downloads\take two\space simulator\planet.cpp
+	"Planet.h"
+
+1304615854 source:c:\users\tddiboy\downloads\take two\space simulator\space.cpp
+	"Space.h"
+	<iostream>
+
+1304666391 c:\users\tddiboy\downloads\take two\space simulator\space.h
+	"SpaceObject.h"
+	"Star.h"
+	"Planet.h"
+	"Moon.h"
+	<list>
+
+1304422587 c:\users\tddiboy\downloads\take two\space simulator\sun.h
+	"SpaceObject.h"
+
+1304422587 source:c:\users\tddiboy\downloads\take two\space simulator\spaceobject.cpp
+	"SpaceObject.h"
+
+1304608976 source:c:\users\tddiboy\downloads\take two\space simulator\sun.cpp
+	"Sun.h"
+
+1304419889 source:c:\users\tddiboy\downloads\take two\space simulator\window.cpp
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+
+1304666391 c:\users\tddiboy\downloads\take two\space simulator\window.h
+	<string>
+
+1304666685 source:c:\users\tddiboy\downloads\take two\space simulator\main.cpp
+	"Draw.h"
+	"Space.h"
+	"Sun.h"
+	"Planet.h"
+	"Moon.h"
+	<iostream>
+
+1304668887 c:\users\tddiboy\downloads\take two\space simulator\draw.h
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+	"Space.h"
+	"Planet.h"
+
+1304666391 c:\users\tddiboy\downloads\take two\space simulator\star.h
+	"SpaceObject.h"
+
+1304675288 source:c:\users\tddiboy\downloads\take two\space simulator\draw.cpp
+	"Draw.h"
+	<iostream>
+
+1304613365 source:c:\users\tddiboy\downloads\take two\space simulator\star.cpp
+	"Star.h"
+
+1304608456 source:e:\project\space simulator\coordinate.cpp
+	"Coordinate.h"
+	<math.h>
+
+1304666392 e:\project\space simulator\coordinate.h
+
+1304675290 source:e:\project\space simulator\draw.cpp
+	"Draw.h"
+	<iostream>
+
+1304934124 e:\project\space simulator\draw.h
+	"Window.h"
+	<GL\glut.h>
+	<windows.h>
+	"Space.h"
+	"Planet.h"
+
+1304666392 e:\project\space simulator\window.h
+	<string>
+
+1304666392 e:\project\space simulator\space.h
+	"SpaceObject.h"
+	"Star.h"
+	"Planet.h"
+	"Moon.h"
+	<list>
+
+1304666392 e:\project\space simulator\spaceobject.h
+	"Coordinate.h"
+	<string>
+
+1304666392 e:\project\space simulator\star.h
+	"SpaceObject.h"
+
+1304441880 e:\project\space simulator\planet.h
+	"SpaceObject.h"
+
+1304508366 e:\project\space simulator\moon.h
+	"Planet.h"
+	"SpaceObject.h"
+
+1304591954 source:e:\project\space simulator\moon.cpp
+	"Moon.h"
+	<math.h>
+	<iostream>
+
+1304607100 source:e:\project\space simulator\planet.cpp
+	"Planet.h"
+
+1304615856 source:e:\project\space simulator\space.cpp
+	"Space.h"
+	<iostream>
+
+1304422588 source:e:\project\space simulator\spaceobject.cpp
+	"SpaceObject.h"
+
+1304613366 source:e:\project\space simulator\star.cpp
+	"Star.h"
+
+1304419890 source:e:\project\space simulator\window.cpp
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+
+1304666686 source:e:\project\space simulator\main.cpp
+	"Draw.h"
+	"Space.h"
+	"Sun.h"
+	"Planet.h"
+	"Moon.h"
+	<iostream>
+
+1304422588 e:\project\space simulator\sun.h
+	"SpaceObject.h"
+
+1305467503 source:c:\users\tddiboy\desktop\space simulator\coordinate.cpp
+	"Coordinate.h"
+	<math.h>
+
+1305474220 c:\users\tddiboy\desktop\space simulator\coordinate.h
+
+1305474220 source:c:\users\tddiboy\desktop\space simulator\moon.cpp
+	"Moon.h"
+	<math.h>
+
+1305474220 c:\users\tddiboy\desktop\space simulator\moon.h
+	"Planet.h"
+	"SpaceObject.h"
+
+1305474220 c:\users\tddiboy\desktop\space simulator\planet.h
+	"SpaceObject.h"
+
+1305474219 c:\users\tddiboy\desktop\space simulator\spaceobject.h
+	"Coordinate.h"
+	<string>
+
+1305474220 source:c:\users\tddiboy\desktop\space simulator\planet.cpp
+	"Planet.h"
+
+1305467503 source:c:\users\tddiboy\desktop\space simulator\draw.cpp
+	"Draw.h"
+
+1305474219 c:\users\tddiboy\desktop\space simulator\draw.h
+	"Window.h"
+	"Space.h"
+	<GL/glut.h>
+	<windows.h>
+
+1305474219 c:\users\tddiboy\desktop\space simulator\window.h
+	<string>
+
+1305474219 c:\users\tddiboy\desktop\space simulator\space.h
+	"SpaceObject.h"
+	"Star.h"
+	"Planet.h"
+	"Moon.h"
+	<list>
+
+1305474219 c:\users\tddiboy\desktop\space simulator\star.h
+	"SpaceObject.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator\space.cpp
+	"Space.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator\spaceobject.cpp
+	"SpaceObject.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator\star.cpp
+	"Star.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator\window.cpp
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+
+1305469355 source:c:\users\tddiboy\desktop\space simulator\main.cpp
+	"Draw.h"
+	"Space.h"
+
+1305467503 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\coordinate.cpp
+	"Coordinate.h"
+	<math.h>
+
+1305474220 c:\users\tddiboy\desktop\space simulator final\space simulator project\coordinate.h
+
+1305478975 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\draw.cpp
+	"Draw.h"
+
+1305474219 c:\users\tddiboy\desktop\space simulator final\space simulator project\draw.h
+	"Window.h"
+	"Space.h"
+	<GL/glut.h>
+	<windows.h>
+
+1305474219 c:\users\tddiboy\desktop\space simulator final\space simulator project\window.h
+	<string>
+
+1305474219 c:\users\tddiboy\desktop\space simulator final\space simulator project\space.h
+	"SpaceObject.h"
+	"Star.h"
+	"Planet.h"
+	"Moon.h"
+	<list>
+
+1305474219 c:\users\tddiboy\desktop\space simulator final\space simulator project\spaceobject.h
+	"Coordinate.h"
+	<string>
+
+1305474219 c:\users\tddiboy\desktop\space simulator final\space simulator project\star.h
+	"SpaceObject.h"
+
+1305478926 c:\users\tddiboy\desktop\space simulator final\space simulator project\planet.h
+	"SpaceObject.h"
+
+1305474220 c:\users\tddiboy\desktop\space simulator final\space simulator project\moon.h
+	"Planet.h"
+	"SpaceObject.h"
+
+1305478926 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\moon.cpp
+	"Moon.h"
+	<math.h>
+
+1305474220 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\planet.cpp
+	"Planet.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\space.cpp
+	"Space.h"
+
+1305478794 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\spaceobject.cpp
+	"SpaceObject.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\star.cpp
+	"Star.h"
+
+1305474219 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\window.cpp
+	"Window.h"
+	<GL/glut.h>
+	<windows.h>
+
+1305478388 source:c:\users\tddiboy\desktop\space simulator final\space simulator project\main.cpp
+	"Draw.h"
+	"Space.h"
+

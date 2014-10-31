@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Coordinate.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1771" topLine="0" />
+	</File>
+	<File name="Coordinate.h" open="1" top="0" tabpos="16">
+		<Cursor position="565" topLine="9" />
+	</File>
+	<File name="Draw.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="16811" topLine="355" />
+	</File>
+	<File name="Draw.h" open="1" top="1" tabpos="9">
+		<Cursor position="3330" topLine="61" />
+	</File>
+	<File name="Moon.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="506" topLine="25" />
+	</File>
+	<File name="Moon.h" open="1" top="0" tabpos="17">
+		<Cursor position="668" topLine="0" />
+	</File>
+	<File name="Planet.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="104" topLine="8" />
+	</File>
+	<File name="Planet.h" open="1" top="0" tabpos="13">
+		<Cursor position="573" topLine="0" />
+	</File>
+	<File name="Space.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="103" topLine="171" />
+	</File>
+	<File name="Space.h" open="1" top="0" tabpos="1">
+		<Cursor position="2403" topLine="32" />
+	</File>
+	<File name="SpaceObject.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="685" topLine="8" />
+	</File>
+	<File name="SpaceObject.h" open="1" top="0" tabpos="5">
+		<Cursor position="935" topLine="11" />
+	</File>
+	<File name="Star.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="102" topLine="4" />
+	</File>
+	<File name="Star.h" open="1" top="0" tabpos="4">
+		<Cursor position="889" topLine="2" />
+	</File>
+	<File name="Window.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="1636" topLine="20" />
+	</File>
+	<File name="Window.h" open="1" top="0" tabpos="10">
+		<Cursor position="1113" topLine="8" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1017" topLine="38" />
+	</File>
+</CodeBlocks_layout_file>
