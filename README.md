@@ -10,27 +10,26 @@ was to simulate a universe (or a space if you will) and to display this with som
 ## Classes 
 
 The classes used in the project are as follows: 
-  • Window 
-    o The class responsible for creating a window 
-  • Draw 
-    o The class handling all drawing in the application 
-       Has a window member to draw in 
-       Has a space member to draw 
-  • Space 
-    o Keeps lists of all objects in space 
-       A list containing all objects 
-       As well as different lists for different types of objects: Suns, Planets and 
-        Moons. 
-  • SpaceObject 
-    o Creates an object in space that can be affected by gravity. 
-  • Star 
-    o Inherits SpaceObject and is special because it emits light. 
-  • Planet 
-    o Inherits SpaceObject and is just a planet. 
-  • Moon 
-    o Inherits SpaceObject and is special because it orbits a planet. 
-  • Coordinate 
-    o Handles coordinates in the application. 
+* Window 
+    * The class responsible for creating a window 
+* Draw 
+    * The class handling all drawing in the application 
+        * Has a window member to draw in 
+        * Has a space member to draw 
+* Space 
+    * Keeps lists of all objects in space 
+        * A list containing all objects 
+        * As well as different lists for different types of objects: Suns, Planets and Moons. 
+* SpaceObject 
+    * Creates an object in space that can be affected by gravity. 
+* Star 
+    * Inherits SpaceObject and is special because it emits light. 
+* Planet 
+    * Inherits SpaceObject and is just a planet. 
+* Moon 
+    * Inherits SpaceObject and is special because it orbits a planet. 
+* Coordinate 
+    * Handles coordinates in the application. 
 
 ## User Input 
 
