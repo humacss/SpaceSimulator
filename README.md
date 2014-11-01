@@ -10,25 +10,25 @@ was to simulate a universe (or a space if you will) and to display this with som
 ## Classes 
 
 The classes used in the project are as follows: 
-* Window 
+* **Window**
     * The class responsible for creating a window 
-* Draw 
+* **Draw**
     * The class handling all drawing in the application 
         * Has a window member to draw in 
         * Has a space member to draw 
-* Space 
+* **Space**
     * Keeps lists of all objects in space 
         * A list containing all objects 
         * As well as different lists for different types of objects: Suns, Planets and Moons. 
-* SpaceObject 
+* **SpaceObject**
     * Creates an object in space that can be affected by gravity. 
-* Star 
+* **Star**
     * Inherits SpaceObject and is special because it emits light. 
-* Planet 
+* **Planet**
     * Inherits SpaceObject and is just a planet. 
-* Moon 
+* **Moon**
     * Inherits SpaceObject and is special because it orbits a planet. 
-* Coordinate 
+* **Coordinate**
     * Handles coordinates in the application. 
 
 ## User Input 
@@ -45,13 +45,13 @@ More objects can be created within the main function. Follow the guidelines give
 ## Dependencies 
 
 The program is displaying graphics using GLUT and therefore the GLUT files are needed. These can be 
-found in the ‘dependencies’ folder. 
+found in the *dependencies* folder. 
 
 ## Compiling
 The code was written entirely in the Code::Blocks IDE. To compile the
 code glut.h, libglut32.a and glut32.dll has to be added to the IDE and
 system folders if these aren't included already. These files can be found
-in the 'dependencies' folder, together with some simple instructions.
+in the *dependencies* folder, together with some simple instructions.
 
 The code has only been tested to compile on the Windows Vista
 Operating System. It will most likely also run on all other Windows
